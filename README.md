@@ -1,4 +1,4 @@
-Hello internets! こんにちは!（https://waa.ai/konnichiwa)
+Hello internets!
 
 <a href="https://info.flagcounter.com/t0Rn"><img src="https://s11.flagcounter.com/count/t0Rn/bg_FFFFFF/txt_286D9B/border_CCCCCC/columns_5/maxflags_30/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
